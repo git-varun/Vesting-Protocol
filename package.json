@@ -17,7 +17,7 @@
     "@openzeppelin/contracts": "^4.5.0",
     "@openzeppelin/test-helpers": "^0.5.15",
     "solidity-coverage": "^0.7.20",
-    "truffle": "^5.5.7"
+    "truffle": "^5.7.9"
   },
   "bugs": {
     "url": "https://github.com/varunup/Vesting-Protocol/issues"
